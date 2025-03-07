@@ -1,13 +1,15 @@
-import Hero from "./components/Hero/Index"
-import NavBar from "./components/NavBar/Index"
+import Hero from "./components/Hero/Index";
+import HeroCard from "./components/HeroCard/Index";
+import NavBar from "./components/NavBar/Index";
 
 const App = () => {
   return (
     <>
-    <NavBar/>
-        <Hero/>
+      <NavBar />
+      <Hero />
+      <HeroCard/>
     </>
-  )
-}
+  );
+};
 
-export default App
+export default App;
