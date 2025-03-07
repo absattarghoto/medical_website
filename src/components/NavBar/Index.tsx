@@ -6,7 +6,7 @@ const NavBar: React.FC = () => {
   const handleLinkClick = () => setIsOpen(false);
 
   return (
-    <nav className="bg-white shadow-md relative">
+    <nav className="bg-white shadow-md fixed top-0 left-0 w-full z-50">
       <div className="min-h-[92px] flex items-center justify-between px-4 sm:px-6 lg:px-8">
         {/* Logo Container */}
         <div className="w-full max-w-[200px] md:max-w-[250px]">
