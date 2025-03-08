@@ -1,3 +1,4 @@
+import FeaturedSection from "./components/FeaturedSection/Index";
 import Hero from "./components/Hero/Index";
 import HeroCard from "./components/HeroCard/Index";
 import NavBar from "./components/NavBar/Index";
@@ -8,6 +9,7 @@ const App = () => {
       <NavBar />
       <Hero />
       <HeroCard/>
+      <FeaturedSection/>
     </>
   );
 };
