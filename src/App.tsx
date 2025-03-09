@@ -1,6 +1,7 @@
 import AboutSection from "./components/AboutSection/Index";
 import CallSection from "./components/CallSection/Index";
 import FeaturedSection from "./components/FeaturedSection/Index";
+import Footer from "./components/Footer/Index";
 import Hero from "./components/Hero/Index";
 import HeroCard from "./components/HeroCard/Index";
 import NavBar from "./components/NavBar/Index";
@@ -18,6 +19,7 @@ const App = () => {
       <AboutSection/>
       <TeamSection/>
       <CallSection/>
+      <Footer/>
     </>
   );
 };
