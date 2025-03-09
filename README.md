@@ -63,14 +63,6 @@ To set up **MediCare+** on your local machine, follow these steps:
 📥 **Clone the repository:**  
 ```bash
 git clone https://github.com/absattarghoto/medical_website.git
-```
-
-### 🔑 Database Setup  
-1️⃣ Open **phpMyAdmin**.  
-2️⃣ Create a **new database** named **medicare_db**.  
-3️⃣ Import the `database/medicare_db.sql` file.  
-4️⃣ Update the **database credentials** in `config.php`.  
-
 ---
 
 ## 📌 Usage  
