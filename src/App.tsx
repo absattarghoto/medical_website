@@ -4,6 +4,7 @@ import Hero from "./components/Hero/Index";
 import HeroCard from "./components/HeroCard/Index";
 import NavBar from "./components/NavBar/Index";
 import Services from "./components/Services/Index";
+import TeamSection from "./components/TeamSection/Index";
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
       <FeaturedSection/>
       <Services/>
       <AboutSection/>
+      <TeamSection/>
     </>
   );
 };
