@@ -63,6 +63,8 @@ To set up **MediCare+** on your local machine, follow these steps:
 📥 **Clone the repository:**  
 ```bash
 git clone https://github.com/absattarghoto/medical_website.git
+```
+
 ---
 
 ## 📌 Usage  
