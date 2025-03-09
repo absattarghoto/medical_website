@@ -6,16 +6,20 @@ const TeamSection = () => {
       <div className="w-full max-w-[1180px]">
         {/* Header Section */}
         <div className="flex justify-center items-center pb-12 md:pb-16 lg:pb-20 xl:pb-24 w-full">
-          <div className="max-w-[776px] w-full text-center">
-            <p className="text-[#B1040E] text-xs sm:text-sm md:text-base lg:text-lg font-semibold pb-1">
-              NEW PATIENTS
-            </p>
-            <p className="text-[#2E333E] text-3xl sm:text-4xl md:text-5xl lg:text-6xl leading-tight lg:leading-snug">
-              We accept new patients
-            </p>
-            <p className="text-[#2E333E] text-lg sm:text-xl md:text-2xl lg:text-3xl font-semibold leading-relaxed">
-              We are excited to be your neighborhood dentist and take care of your family’s dental needs.
-            </p>
+          <div className="max-w-[700px] w-full text-center">
+          <p className="text-[#B1040E] text-sm sm:text-base font-semibold">
+          NEW PATIENTS
+        </p>
+        <p className="text-[#000000] text-2xl sm:text-3xl md:text-4xl font-medium leading-tight">
+        We accept new patients
+        </p>
+        <p className="text-[#2E333E] text-base sm:text-lg md:text-xl leading-relaxed">
+        We are excited to be your neighborhood dentist and take care of your family’s dental needs.
+        </p>
+           
+           
+           
+           
           </div>
         </div>
 
