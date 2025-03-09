@@ -1,3 +1,4 @@
+import AboutSection from "./components/AboutSection/Index";
 import FeaturedSection from "./components/FeaturedSection/Index";
 import Hero from "./components/Hero/Index";
 import HeroCard from "./components/HeroCard/Index";
@@ -12,6 +13,7 @@ const App = () => {
       <HeroCard/>
       <FeaturedSection/>
       <Services/>
+      <AboutSection/>
     </>
   );
 };
