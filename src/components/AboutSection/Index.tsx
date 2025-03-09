@@ -35,6 +35,11 @@ const AboutSection = () => {
 
 
 
+<div className="w-full max-w-[1180px] h-[168px] -my-24 flex justify-center">
+  <img src="Images/line (1).png" alt="" className=" h-auto max-h-[168px] md:block hidden" />
+</div>
+
+
 
 
 <div className="flex flex-col md:flex-row justify-between items-center py-12 md:py-24 px-4 md:px-0">
